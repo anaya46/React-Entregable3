@@ -37,13 +37,9 @@ const Location = () => {
                 }
          
             </ul>
-            
-          
-               
+                           
             <div className='location__card'>
-              
               <div>
-               
                 <h5 className='tittle__card'> Name</h5>
                 <p className='text__card'> {location?.name}</p>
                </div>
